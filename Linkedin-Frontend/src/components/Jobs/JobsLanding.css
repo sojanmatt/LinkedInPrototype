@@ -1,0 +1,126 @@
+.jobs-landing-search-container {
+  margin-top: 2%;
+  float: left;
+  /* width: 50% */
+}
+
+.jobs-landing-header-container {
+  width: 100%;
+  background: #5c6f7c;
+  /* padding: 0 0 12px; */
+  display: block;
+}
+
+.jobs-search-alerts-container {
+  float: left;
+  background: #5c6f7c;
+  width: 100%;
+}
+
+.t-09 {
+  font-size: 0.8rem;
+  line-height: 1.42857;
+}
+.t-normal {
+  font-weight: 400;
+}
+.t-white {
+  color: #fff;
+}
+
+.pull-center{
+    padding-left: 13%;
+    padding-right: 13%
+}
+
+.pull-center-1 {
+  padding-left: 13%;
+}
+
+.pull-center-2 {
+  padding-right: 13%;
+}
+
+.linkedin-post-job{
+    background-color: #0073b1;
+    border: 0;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 0.9rem;
+    height: 30px;
+    line-height: 30px;
+    outline-width: 2px;
+    padding: 0 16px;
+    margin-top: 0.2% 
+  
+}
+
+.view-jobs-blocks-container {
+  box-shadow: 10px 10px 5px white;
+  background: white;
+}
+
+.jobs-landing-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+  .margin-1-pc{
+    margin: 1%
+  }
+
+.jobs-landing-bar-container {
+    background :white;
+    width: 100%;
+    border : 2px solid #dee2e6;
+    font-size: 14px;
+    height: 50px;
+    box-shadow: 2px 2px 2px grey;
+    display: inline-block;
+    text-align: center;
+}
+
+.pad-6-pc{
+    padding-left: 20%
+}
+
+.jobs-landing-wrapper-div{
+    margin-top: 1%;
+    /* margin-left: 12%; */
+    border : 2px solid #dee2e6;
+    width: 76%;
+    box-shadow: 2px 2px 2px grey;
+    
+}
+
+.jobs
+{
+  margin-left : 12%;
+  height : 40px;
+  width: 32%
+}
+
+.location
+{
+  height: 40px;
+  width : 32%
+}
+
+.white-outline {
+  color: white; /* Text color */
+  background: transparent; /* Remove background color */
+  border: 1px solid white;
+  width: 110px;
+  height: 40px;
+}
+
+.pad-top-1-pc{
+  padding-top: 1%
+}
+
+.card-img-top{
+  width:30%
+}

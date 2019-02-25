@@ -1,0 +1,47 @@
+.cover-image-container img{
+    width: 100%;
+    height: 300px;
+}
+
+.profile-img{
+    width:152px;
+    height:152px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background-color: white;
+}
+.profile-img-container{
+    margin: -116px 0; 
+}
+
+.pull-down-div{
+    margin-top: 150px;
+}
+
+.profile-name{
+    font-size:30px;
+    font-weight: 400;
+}
+
+.profile-btn{
+    background-color: #0073b1;
+    color: white;
+    border-radius:2px;
+    font-weight: bold; 
+}
+
+.people-profile-container, .content-container{
+    background-color: #f8f9fa;
+}
+
+.intro-container, .exp-container, .edu-container, .profile-skills-container{
+    background-color: white;
+}
+
+.profile-company-img-container, .profile-edu-img-container{
+    width: 56px;
+    height: 56px;
+}
+.skill-name{
+    font-weight: 600;
+}

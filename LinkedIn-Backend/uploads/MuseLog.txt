@@ -1,0 +1,9 @@
+Logging in build 2015.0.2.4 started at: Mon Feb  6 16:15:20 2017
+========================================
+[00:00:07.241] 16:15:27.282 | Error - IMS : No AdobeID signed in
+[00:00:08.258] 16:15:28.300 | Recovery Complete
+[00:00:20.305] 16:15:40.346 | Quitting Application after 0.2 minutes. Called by: 
+
+==========
+Logging ended at: Mon Feb  6 16:15:42 2017
+

@@ -1,0 +1,15 @@
+.form-content input{
+    width: 600px;
+    border-radius: 2px;
+}
+
+.file-container{
+    width: 700px;
+}
+
+.apply-job-btn{
+    background-color:  #0073b1;
+    border-radius: 2px;
+    border: 1px solid #0073b1;
+    color:white;
+}

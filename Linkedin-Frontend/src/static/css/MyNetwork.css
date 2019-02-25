@@ -1,0 +1,31 @@
+.con-img{
+    width: 56px;
+    height:56px;
+}
+
+.ignore-link{
+    color: rgba(0,0,0,.6);
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgba(0,0,0,.6);
+}
+
+.accept-btn, .msg-btn{
+    background-color: white;
+    border-radius: 2px;
+    border: 1px solid #0073b1;
+    color: #0073b1;
+  }
+  .accept-btn:hover, .msg-btn:hover{
+    background-color: rgba(152,216,244,.25);
+  }
+
+.mynetwork-container{
+    background-color: #f8f9fa;
+}
+
+.con-content-container, .con-req-container {
+    background-color: white;
+}

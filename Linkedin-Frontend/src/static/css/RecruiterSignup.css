@@ -1,0 +1,9 @@
+.login-form{
+    background-image: url("https://static.licdn.com/sc/h/64xk850n3a8uzse6fi11l3vmz");
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
